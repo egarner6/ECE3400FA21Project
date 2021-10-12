@@ -1,8 +1,6 @@
 ## Welcome to Elizabeth's ECE 3400 Webpage!
 
-[Lab 1] (gh-pages/lab1.md)
-[ ECE3400FA21Project/index.md ]
-[gh-pages/lab1.md]
+[Lab 1](https://github.com/egarner6/ECE3400FA21Project/edit/gh-pages/lab1.md)
 You can use the [editor on GitHub](https://github.com/egarner6/ECE3400FA21Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 ### Markdown
 This is me testing Gitpages
