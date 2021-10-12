@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Elizabeth's ECE 3400 Webpage!
 
 You can use the [editor on GitHub](https://github.com/egarner6/ECE3400FA21Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
