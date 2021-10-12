@@ -1,11 +1,8 @@
 ## Welcome to Elizabeth's ECE 3400 Webpage!
 
 You can use the [editor on GitHub](https://github.com/egarner6/ECE3400FA21Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
-
+This is me testing Gitpages
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
