@@ -9,13 +9,13 @@ Below is a video of the robot running through the maze and turning around at the
 [Lab 1 Final Video](https://youtu.be/hTH1iRYtUkw)
 
 ## The robot in position 1:
-[[https://github.com/egarner6/ECE3400FA21Project/blob/main/IMG_0902.PNG]]
+<img src="https://github.com/egarner6/ECE3400FA21Project/blob/main/IMG_0902.PNG" alt="Position 1">
 
 ## The robot in position 2:
-[[https://github.com/egarner6/ECE3400FA21Project/blob/main/IMG_0903.PNG]]
+<img src="https://github.com/egarner6/ECE3400FA21Project/blob/main/IMG_0903.PNG" alt="Position 2">
 
 ## The robot in position 3:
-[[https://github.com/egarner6/ECE3400FA21Project/blob/main/IMG_0905.PNG]]
+<img src="https://github.com/egarner6/ECE3400FA21Project/blob/main/IMG_0905.PNG" alt="Position 3">
 
 ## The Serial Monitor:
-[[https://github.com/egarner6/ECE3400FA21Project/blob/main/Serial%20Lab%201%20emg229%20spd75.jpg]]
+<img src="https://github.com/egarner6/ECE3400FA21Project/blob/main/Serial%20Lab%201%20emg229%20spd75.jpg" alt="Serial Monitor">
