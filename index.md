@@ -1,35 +1,21 @@
-## Welcome to Elizabeth's ECE 3400 Webpage!
+## Welcome to my ECE 3400 Lab 1!
 
-[Lab 1](https://github.com/egarner6/ECE3400FA21Project/edit/gh-pages/lab1.md)
-You can use the [editor on GitHub](https://github.com/egarner6/ECE3400FA21Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-### Markdown
-This is me testing Gitpages
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For this lab, I worked with my partner to assemble the robot, code it to drive a simple loop on the floor, and incorporate Ultrasonic Sensors to navigate a maze of blocks. To do this, Sergio and I programmed our robot to drive forward until the front sensor triggered. Then, the robot would evaluate the side sensors' readings and choose the side that had a further distance reading. From there, the robot would turn 90 degrees to the direction. In the case that all sensors trigger, the robot has reached a dead-end and needs to turn around completely. If all three sensors read high distance readings (ie wider than the maze path), then the robot did a 540 degree turn. We selected this method as it was important to utilize all three sensors in our design, instead of just using the front sensor.
 
-```markdown
-Syntax highlighted code block
+Some problems we faced were mostly assembly and parts related. Our caster ball often got coated in dirt from running on the ground so we had to clean it frequently or use it on a table. As well, our wheels turned at different rates, so we had to adjust their speeds accordingly. Lastly, we had trouble with our Ultrasonic Sensor readings. At seemingly random, the sensors would read unreasonable values. To combat this, the sensors took a rolling average and whenever there was a value that was abnormal, it stopped to "think" and take more values. This is evident in our video as the robot occasionally stops.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Below is a video of the robot running through the maze and turning around at the end:
+[Lab 1 Final Video](https://youtu.be/hTH1iRYtUkw)
 
-1. Numbered
-2. List
+## The robot in position 1:
+[[https://github.com/egarner6/ECE3400FA21Project/blob/main/IMG_0902.PNG]]
 
-**Bold** and _Italic_ and `Code` text
+## The robot in position 2:
+[[https://github.com/egarner6/ECE3400FA21Project/blob/main/IMG_0903.PNG]]
 
-[Link](url) and ![Image](src)
-```
+## The robot in position 3:
+[[https://github.com/egarner6/ECE3400FA21Project/blob/main/IMG_0905.PNG]]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/egarner6/ECE3400FA21Project/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## The Serial Monitor:
+[[https://github.com/egarner6/ECE3400FA21Project/blob/main/Serial%20Lab%201%20emg229%20spd75.jpg]]
